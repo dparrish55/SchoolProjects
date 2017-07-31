@@ -1,0 +1,24 @@
+AI Final Project: Temple of Ech
+Iteration results
+
+
+Ruin Map 1, Tick 0:
+[    ][    ][    ][    ][    ][    ][    ][    ][    ][    ][    ]
+[    ][   O][   O][    ][   O][    ][    ][   O][   O][   O][    ]
+[    ][    ][   O][   O][    ][   O][    ][    ][    ][   O][    ]
+[    ][    ][   O][   O][    ][    ][    ][    ][    ][    ][    ]
+[    ][   O][   O][    ][   O][    ][   O][   O][   O][    ][    ]
+[    ][    ][    ][    ][    ][    ][    ][    ][    ][    ][    ]
+[    ][>-  ][    ][    ][    ][    ][    ][    ][>-  ][    ][    ]
+[    ][    ][    ][<-  ][    ][  & ][<-  ][    ][    ][    ][    ]
+[    ][    ][>-  ][    ][  & ][    ][>-  ][  & ][    ][    ][    ]
+[    ][    ][    ][    ][<-  ][<-  ][  & ][    ][    ][    ][    ]
+[    ][    ][    ][    ][    ][    ][    ][    ][    ][    ][    ]
+BestOfBoth           ( 5, 0)
+North                ( 5, 0)
+PatientRun           ( 5, 0)
+SafeZoneScout        ( 5, 0)
+Smith                ( 5, 0)
+TacoStand            ( 5, 0)
+UserInput            ( 5, 0)
+Which direction or stand still? N, S, W, E, or X: 
